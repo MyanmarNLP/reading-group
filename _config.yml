@@ -4,18 +4,18 @@
 
 # Site settings
 # title appears in the header
-title: reading-group
+title: Myanmar NLP Reading Group
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Font Awesome 5 free, https://fontawesome.com/icons?d=gallery&m=free
 # some options: fas fa-wrench; fas fa-cogs; fas fa-code; fas fa-chalkboard-teacher; fas fa-book-open
-title-icon: fas fa-code
+title-icon: fas fa-book-open
 # description and keywords for meta tags
 description: "The reading group for Natural Language Processing, Myanmar"
 keywords: "workshops, websites, gh-pages, jekyll"
 featured-image: "/images/uidaho-workshop.jpg"
 
 # author settings for cc-by, appears in the footer
-author: Myanmar NLP
+author: MyanmarNLP
 pub_year: 2020
 github_username: myanmarnlp
 
@@ -28,7 +28,7 @@ repo: "https://github.com/MyanmarNLP/workshop-template-b"
 url: https://myanmarnlp.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /workshop-template-b
+baseurl: /reading-group
 
 # add search box to footer?
 search: true
