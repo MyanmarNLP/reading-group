@@ -1,6 +1,6 @@
 ---
 title: Content
-nav: true
+nav: false
 ---
 
 # Create Lesson Content
