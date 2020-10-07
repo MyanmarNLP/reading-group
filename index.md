@@ -3,25 +3,12 @@ title: Home
 layout: default
 ---
 
-# Bootstrap Workshop Template!
+# NLP Reading Group, Myanmar
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
-
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
-
-*Add your workshop abstract here!*
-
-Write a workshop abstract here.
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+ Natural Language Processing (NLP) Myanmar Reading Group ရဲ့ ပထမဆုံးအတန်းအနေနဲ့ Stanford University ရဲ့ Natural Language Processing (CS224N) အတန်းကို အတူတူ Seminar-style နဲ့လေ့လာဖို့ရည်ရွယ်ပါတယ်။  Seminar-style ဖြစ်တာကြောင့် spoon-feed သင်ပေးမဲ့ဆရာမရှိပါ။ ကျောင်းသားတွေအချင်းချင်း အလှည့်ကျ တစ်ပတ်ကို တစ်ယောက်စီ တာဝန်ယူပြီး presentation လုပ်ပြီး အတူတူလေ့လာ ဆွေးနွေးကြမှာဖြစ်ပါတယ်။ လက်ရှိ NLP/ML ကိုအထူးပြုပြီး PhD လုပ်နေတဲ့သူတွေနဲ့ Industry မှာ အတွေ့အကြုံရှိသူတစ်ချို့က discussion ကို guide လုပ်ပေးရုံပဲလုပ်ပေးပါ့မယ်။ ဖြစ်နိုင်ရင် အတန်းပြီးမှာ မြန်မာ ဘာသာနဲ့ပတ်သတ်တဲ့ research project တစ်ခုကို စိတ်ဝင်စားသူတွေ အတူတူလုပ်ပြီး နာမည်ကြီး NLP conference တစ်ခုမှာ သုတေသနစာတမ်းတစ်ခု အတူတူတင်နိုင်ဖို့ ရည်ရွယ်ပါတယ်။ 
 
 {% include toc.html %}
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
 
 ------
 
