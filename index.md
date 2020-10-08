@@ -12,3 +12,11 @@ layout: default
  Reading group ကို စိတ်င်စားပြီးပါဝင်ချင်ရင် [ဒီform](https://docs.google.com/forms/d/e/1FAIpQLSdq2hH8vfrwF3LU6UTGUZC3-YYgbt3F7mCREkgVzeJhUK3WUA/viewform?usp=sf_link) ကို နိုဝင်ဘာလ ၁ရက်နေ့ နောက်ဆုံးထားဖြည့်ပြီး လျှောက်နိုင်ပါတယ်။
 
 
+## Organizers
+
+Aye Hninn Khine (PhD Candidate, Prince of Songkla University, Thailand)    
+Cho Zin Tun (Data Scientist, Visa)  
+[Phu Mon Htut](https://phumonhtut.me/)(PhD Candidate, New York University)  
+Soe Lynn (Senior Software Engineer, Paypal)  
+
+
