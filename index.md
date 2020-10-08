@@ -14,10 +14,9 @@ layout: default
  
 ## Location and Time
 ---
-Location: Zoom
-Time: Every Sunday, 9am (Myanmar Standard Time)
-Class Start Date: 29 November, 2020
- 
+Location: Zoom  
+Time: Every Sunday, 9am (Myanmar Standard Time)  
+Class Start Date: 29 November, 2020  
 
 
 
