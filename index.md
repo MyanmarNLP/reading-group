@@ -22,9 +22,9 @@ Class Start Date: 29 November, 2020
 
 ## Organizers
 ---
-Aye Hninn Khine (PhD Candidate, Prince of Songkla University, Thailand)    
-Cho Zin Tun (Data Scientist, Visa)  
+[Aye Hninn Khine](https://www.linkedin.com/in/ayehninnkhine) (PhD Candidate, Prince of Songkla University, Thailand)    
+[Cho Zin Tun](https://www.linkedin.com/in/cho-zin-tun-9217a2a3/) (Lead Data Scientist, Visa)  
 [Phu Mon Htut](https://phumonhtut.me/)(PhD Candidate, New York University)  
-Soe Lynn (Senior Software Engineer, Paypal)  
+[Soe Lynn](https://www.linkedin.com/in/realsoelynn/) (Senior Software Engineer, Paypal)  
 
 
