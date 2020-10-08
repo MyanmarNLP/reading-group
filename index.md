@@ -13,6 +13,7 @@ layout: default
  
  ဆွေးနွေးရာမှာ ပိုမိုထိရောက်မှုရှိစေရန်တွက် လူဦးရေ ၃၀ခန့် လက်ခံမယ်လို့ သတ်မှတ်ထားပါတယ်။ ဒါကြောင့် Machine Learning/NLPနဲ့ပက်သက်ပြီး လက်ရှိThesisလုပ်နေသူများ/ အတွေ့အကြုံရှိပြီးသူများကို ဦးစားပေးသွားမှာဖြစ်ပါတယ်။ ပါဝင်ခွင့်မရသူများ လေ့လာနိုင်ရန်အတွက် video recording ကို youtube မှာတင်ပေးပါ့မယ်။ ပါဝင်ခွင့်ရသူများကို email ကနေအကြောင်းကြားပါ့မယ်။ 
  
+   
  
 ## Prerequisites
 ---
@@ -24,6 +25,7 @@ Math:
 Programming:
 - Python: Variables, Loops, Conditional Statements, Functions, Classes, Data Structures (Lists / Arrays, Dictionaries)
 
+  
 
 ## Location and Time
 ---
