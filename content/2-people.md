@@ -1,6 +1,6 @@
 ---
 title: People
-nav: true
+nav: false
 ---
 
 # People
