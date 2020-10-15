@@ -34,11 +34,17 @@ This course will closely follow [Stanford NLP's CS224N](http://web.stanford.edu/
 ## Other ML/DL
 Andrew Ng's ML [[Coursera](https://www.coursera.org/learn/machine-learning)][[Stanford](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&ab_channel=stanfordonline)]  
 
-[The Deep Learning Book](https://www.deeplearningbook.org/)  
+[Fast.AI](https://www.fast.ai/)  
 
 [Foundations of ML by Prof. David Rosenberg](https://bloomberg.github.io/foml/#home)  
 
-[Fast.AI](https://www.fast.ai/)
+[NYU Deep Learning Class](https://atcold.github.io/pytorch-Deep-Learning/)  
+
+[The Deep Learning Book](https://www.deeplearningbook.org/)  
+
+
+
+
 
 
 
