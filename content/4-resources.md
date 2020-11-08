@@ -1,71 +1,43 @@
 ---
 title: Resources
-nav: false
+nav: true
 ---
 
-# Resources
 
-To learn about using `workshop-template-b`, the [Readme](https://github.com/evanwill/workshop-template-b/blob/master/README.md) and content pages have some documentation.
+# Resources  
+## Scientific Computing with Python  
+[Intro to Scientific Computing in Python](https://sebastianraschka.com/blog/2020/numpy-intro.html#41-numpy-basics)    
 
-Workshop sites using this template:
+[Numpy Tutorial (Stanford CS231N)](https://cs231n.github.io/python-numpy-tutorial/)  
 
-- [Make OER!](https://evanwill.github.io/make-oer/) (presentation)
-- [Hey API!](https://evanwill.github.io/hey-api/) (workshop)
-- [Teaching Tech Hands-on](https://evanwill.github.io/tech-hands-on/) (presentation)
-- [Refine APIs](https://evanwill.github.io/refine-apis/) (workshop)
-- [Mini Web Crash Course](https://evanwill.github.io/mini-web-crash-course/) (workshop)
+## Math  
+[Probability and Statistics for Data Science (NYU)](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf)  
 
-Other workshop sites an [minimal version of this template](https://github.com/evanwill/workshop-template) (no bootstrap):
+[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
 
-- [get-git](https://evanwill.github.io/get-git/)
-- [hello-arduino](https://evanwill.github.io/hello-arduino/)
-- [clean-your-data](https://evanwill.github.io/clean-your-data/)
-- [go-go gh-pages](https://evanwill.github.io/go-go-ghpages/)
-- [Make @ the MILL](https://uidaholib.github.io/make-at-the-mill/)
+[Mathematics for ML Book](https://mml-book.github.io/)  
 
-# Reference
 
-### Git & GitHub
+## ML for NLP
+[Stanford NLP Coursera](https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv&ab_channel=ArtificialIntelligence-AllinOne)  
 
-[GitHub](https://github.com/){:target="_blank" rel="noopener"} is a popular web service for hosting Git repositories--with benefits!
-It provides a handy web interface for editing and collaborating on repos, as well as, built in project management features and [free static web hosting](https://pages.github.com/){:target="blank"} powered by [Jekyll](https://jekyllrb.com/){:target="blank"}.
-Accounts are free.
-To learn more check out Hellow World on [GitHub Guides](https://guides.github.com/){:target="_blank" rel="noopener"} or [GitHub Training](https://services.github.com/on-demand/){:target="_blank" rel="noopener"}.
+[Neural Network Methods for Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037) 
 
-### Markdown
+[Linguistic Fundamentals for Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)  
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a standard to simplify writing content for the web. 
-[GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub and in Jekyll.
+[NYU's Natural Language Understanding with Distributed Representations - Lecture Notes](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)  
 
-- [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html)
-- GitHub Guide [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+## Other ML/DL
+Andrew Ng's ML [[Coursera](https://www.coursera.org/learn/machine-learning)][[Stanford](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&ab_channel=stanfordonline)]  
 
-### Bootstrap 4
+[Fast.AI](https://www.fast.ai/)  
 
-[Bootstrap](https://getbootstrap.com/) is a CSS framework designed to streamline developing user interfaces for your website. 
-It is combined with a JavaScript library [jQuery](https://jquery.com/) to simplify adding interactive components. 
+[Foundations of ML by Prof. David Rosenberg](https://bloomberg.github.io/foml/#home)  
 
-### FontAwesome 5
+[NYU Deep Learning Class](https://atcold.github.io/pytorch-Deep-Learning/)  
 
-[FontAwesome](https://fontawesome.com/) is an icon set used to easily add icons to websites.
-Check the [gallery](https://fontawesome.com/icons?d=gallery&m=free) for the freely available icons.
+[The Deep Learning Book](https://www.deeplearningbook.org/)  
 
-### YAML
 
-[YAML](http://www.yaml.org/) is a human readable plain text data format.
-It is used in Jekyll for configuration, site data, and front matter.
-Jekyll projects are [configured](https://jekyllrb.com/docs/configuration/) using the `_config.yml` file.
 
-### Liquid
 
-[Liquid](http://shopify.github.io/liquid/) is a flexible template language.
-[In Jekyll](https://jekyllrb.com/docs/templates/) it allows you to layout pages built from modular components and data, using the `_includes`, `_layouts`, and `_data` directories.
-Liquid includes features such as operators, loops, and filters to manipulate raw content. 
-Liquid statements are enclosed by {% raw %}`{%  %}`{% endraw %} and variables in {% raw %}`{{  }}`{% endraw %}.
-
-### Sass  
-
-[Sass](http://sass-lang.com/) is a CSS extension / preprocessor. 
-All normal CSS is valid SCSS, but Sass adds many powerful functions and programatic features. 
-Writing SCSS is often easier and more sensible, for example by supporting nesting, variables, and operators. 
-Jekyll lets you write SASS in modular chucks called partials, in the `_sass` directory, that will be combined and compiled into normal CSS files when the site is built.
