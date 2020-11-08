@@ -14,7 +14,7 @@ Main textbooks and resources:
 Prof. Kyunhyun Cho’s Lecture Notes for NLP class at NYU: [[link](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)].  
 Syllabus will be updated.
 
-<table class="c29">
+<table class="c29" border="1">
             <tbody>
                <tr class="c3">
                   <td class="c19" colspan="1" rowspan="1">
