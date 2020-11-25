@@ -70,7 +70,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c12">29 Nov 2020</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c12">Word Vectors 1 (Intro to Distribution Semantics)</span></p>
+                     <p class="c9"><span class="c12">Word Vectors 1 (Intro to Distributional Semantics)</span></p>
                      <ul class="c20 lst-kix_bxxvol9kz5ej-0 start">
                         <li class="c9 c17"><span class="c1">Introduction and Word Vectors</span></li>
                         <li class="c9 c17"><span>Gensim word vectors example</span></li>
