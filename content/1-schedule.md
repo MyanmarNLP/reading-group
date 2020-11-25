@@ -77,10 +77,10 @@ Syllabus will be updated.
                      </ul>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c0">CS224N <a href="https://youtu.be/8rXD5-xhemo">Video</a> <a class="c14" href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf">Notes</a> <a class="c14" href="http://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture01-wordvecs1.pdf">Slides</a> </span></p>
+                     <p class="c9"><span class="c0">CS224N W1: <a href="https://youtu.be/8rXD5-xhemo">Video</a> <a class="c14" href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf">Notes</a> <a class="c14" href="http://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture01-wordvecs1.pdf">Slides</a> </span></p>
                      <p class="c9 c10"><span class="c18 c0"></span></p>
                      <p class="c9"><span class="c0 c26">Additional readings</span><span class="c18 c0">:</span></p>
-                     <p class="c9"><span class="c18 c0">Suggested readings for CS224N Lecture 1.</span></p>
+                     <p class="c9"><span class="c18 c0">Suggested readings for CS224N W1.</span></p>
                      <p class="c9 c10"><span class="c18 c0"></span></p>
                      <p class="c9"><span class="c0">Lena Voita&rsquo;s [</span><span class="c13 c0"><a class="c14" href="https://www.google.com/url?q=https://lena-voita.github.io/nlp_course/word_embeddings.html&amp;sa=D&amp;ust=1604815041469000&amp;usg=AOvVaw3ht7DSRQtQOTrntpx9szUm">note</a></span><span class="c0">]</span></p>
                   </td>
