@@ -77,7 +77,7 @@ Syllabus will be updated.
                      </ul>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c0">CS224N Lecture Note (Jan 7)</span></p>
+                     <p class="c9"><span class="c0">CS224N [[Video](https://youtu.be/8rXD5-xhemo)] [[Notes(http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes01-wordvecs1.pdf)]] [[Slides](http://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture01-wordvecs1.pdf)]</span></p>
                      <p class="c9 c10"><span class="c18 c0"></span></p>
                      <p class="c9"><span class="c0 c26">Additional readings</span><span class="c18 c0">:</span></p>
                      <p class="c9"><span class="c18 c0">Suggested readings for CS224N Lecture 1.</span></p>
