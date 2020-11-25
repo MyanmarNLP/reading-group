@@ -85,7 +85,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c0">Lena Voita&rsquo;s [</span><span class="c13 c0"><a class="c14" href="https://www.google.com/url?q=https://lena-voita.github.io/nlp_course/word_embeddings.html&amp;sa=D&amp;ust=1604815041469000&amp;usg=AOvVaw3ht7DSRQtQOTrntpx9szUm">note</a></span><span class="c0">]</span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c1">Soe Lynn</span></p>
+                     <p class="c9"><span class="c1">PMH</span></p>
                   </td>
                </tr>
                <tr class="c3">
