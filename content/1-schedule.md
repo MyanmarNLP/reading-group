@@ -106,9 +106,6 @@ Syllabus will be updated.
                      <p class="c9"><span class="c18 c0">Suggested readings for CS224N Lecture 2.</span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9"><span class="c1">Khin Thet Htar,Tin Latt Nandar</span></p>
                   </td>
                </tr>
@@ -125,9 +122,6 @@ Syllabus will be updated.
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9"><span class="c18 c0">CS224N Lecture Note (Jan 14)</span></p>
                      <p class="c9 c10"><span class="c18 c0"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
                      <p class="c9"><span class="c1">Sai Htaung Kham,Win Myat Thuzar</span></p>
@@ -148,9 +142,6 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c18 c0"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9"><span class="c1">Ma Htet Htet Mon,Naing Naing Maw</span></p>
                   </td>
                </tr>
@@ -166,9 +157,6 @@ Syllabus will be updated.
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9"><span class="c0">CS224N Lecture Note (Jan 21)</span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
                      <p class="c9"><span class="c1">Yi Yi Chan Myae Win Shein,Nann Hwan Khun (Nann Nann)</span></p>
@@ -188,9 +176,6 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9"><span class="c1">Yan Paing Oo,Khit Sithu</span></p>
                   </td>                           
                </tr>
@@ -205,9 +190,6 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">Recurrent Neural Networks 2</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
@@ -229,9 +211,6 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9"><span class="c1">Kyawt Kyawt San,Khin Thandar Kyaw</span></p>
                   </td>  
                </tr>
@@ -246,9 +225,6 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">Machine Translation: Transformers</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
@@ -269,9 +245,6 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9"><span class="c1">Chaw Chaw Khin,Thura Aung</span></p>
                   </td>
                </tr>
@@ -286,9 +259,6 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">Machine Reading/Question Answering</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
@@ -309,9 +279,6 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9"><span class="c1">Thura Aung,Aung Myo Min</span></p>
                   </td>
                </tr>
@@ -329,9 +296,6 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9"><span class="c1">Pyae Phyo Kyaw,Khin Me Me Chit</span></p>
                   </td>
                </tr>
@@ -346,9 +310,6 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">Multi-task and Multilinguality</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
