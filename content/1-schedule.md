@@ -159,7 +159,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c0">CS224N Lecture Note (Jan 21)</span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c1">Yi Yi Chan Myae Win Shein,Nann Hwan Khun (Nann Nann)</span></p>
+                     <p class="c9"><span class="c1">Yi Yi Chan Myae Win Shein,Nann Nann</span></p>
                   </td>
                </tr>
                <tr class="c3">
