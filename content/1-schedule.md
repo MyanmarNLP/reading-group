@@ -100,10 +100,10 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c18 c0">CS224N Lecture Note (Jan 9)</span></p>
+                     <p class="c9"><span class="c18 c0">CS224N W2: <a href="https://youtu.be/kEMJRjEdNzM">Video</a> <a class="c14" href="http://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes02-wordvecs2.pdf">Notes</a> <a class="c14" href="http://web.stanford.edu/class/cs224n/slides/cs224n-2020-lecture02-wordvecs2.pdf">Slides</a></span></p>
                      <p class="c9 c10"><span class="c18 c0"></span></p>
                      <p class="c9"><span class="c0 c26">Additional readings</span><span class="c18 c0">:</span></p>
-                     <p class="c9"><span class="c18 c0">Suggested readings for CS224N Lecture 2.</span></p>
+                     <p class="c9"><span class="c18 c0">Suggested readings for CS224N Week 2.</span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
                      <p class="c9"><span class="c1">Khin Thet Htar,Tin Latt Nandar</span></p>
