@@ -245,7 +245,7 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c1">Phoo Pyae Pyae Linn,Khine Zar Thwe</span></p>
+                     <p class="c9"><span class="c1">Chaw Chaw Khin,Thura Aung</span></p>
                   </td>
                </tr>
                <tr class="c3">
@@ -262,7 +262,7 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c1">May Aye Chann,Aung Myo Min</span></p>
+                     <p class="c9"><span class="c1">Phoo Pyae Pyae Linn,Khine Zar Thwe</span></p>
                   </td>
                </tr>
                <tr class="c3">
@@ -279,7 +279,7 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c1">Pyae Phyo Kyaw,Khin Me Me Chit</span></p>
+                     <p class="c9"><span class="c1">May Aye Chann,Aung Myo Min</span></p>
                   </td>
                </tr>
                <tr class="c3">
@@ -296,7 +296,7 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c1">Thura Htet Aung</span></p>
+                     <p class="c9"><span class="c1">Pyae Phyo Kyaw,Khin Me Me Chit</span></p>
                   </td>
                </tr>
                <tr class="c3">
@@ -313,7 +313,7 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
+                     <p class="c9 c10"><span class="c1">Thura Htet Aung</span></p>
                   </td>
                </tr>
                <tr class="c3">
