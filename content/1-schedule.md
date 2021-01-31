@@ -290,7 +290,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">28 Feb 2021</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">Contextual Word Representations: BERT</span></p>
+                     <p class="c9"><span class="c15">Modeling contexts of use: Contextual Representations and Pretraining. ELMo and BERT.</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
@@ -307,7 +307,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">7 Mar 2021</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">Modeling contexts of use: Contextual Representations and Pretraining. ELMo and BERT.</span></p>
+                     <p class="c9"><span class="c15">Natural Language Generation</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
@@ -324,7 +324,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">14 Mar 2021</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">Natural Language Generation</span></p>
+                     <p class="c9"><span class="c15">Reference in Language and Coreference Resolution</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
@@ -341,7 +341,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">21 Mar 2021</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">Reference in Language and Coreference Resolution</span></p>
+                     <p class="c9"><span class="c15">Fairness and Inclusion in AI</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
@@ -358,7 +358,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">28 Mar 2021</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">Fairness and Inclusion in AI</span></p>
+                     <p class="c9"><span class="c15">Constituency Parsing and Tree Recursive Neural Networks</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
@@ -375,7 +375,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">4 Apr 2021</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">Constituency Parsing and Tree Recursive Neural Networks</span></p>
+                     <p class="c9"><span class="c15">Recent Advances in Low Resource Machine Translation</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
@@ -392,7 +392,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">11 Apr 2021</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">Recent Advances in Low Resource Machine Translation</span></p>
+                     <p class="c9"><span class="c15">Analysis and Interpretability of Neural NLP</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
@@ -409,7 +409,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">18 Apr 2021</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">Analysis and Interpretability of Neural NLP</span></p>
+                     <p class="c9"><span class="c15">Project Brainstorming</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
@@ -443,7 +443,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">2 May 2021</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">Project Brainstorming</span></p>
+                     <p class="c9"><span class="c15">Guest lecture on creating benchmarks?</span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
@@ -460,7 +460,7 @@ Syllabus will be updated.
                      <p class="c9"><span class="c15">2 May 2021</span></p>
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">Guest lecture on creating benchmarks?</span></p>
+                     <p class="c9"><span class="c15"></span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
