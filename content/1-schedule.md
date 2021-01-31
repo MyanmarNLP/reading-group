@@ -415,7 +415,7 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1">Khin Me Me Chit,Thura Aung</span></p>
+                     <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                </tr>
                <tr class="c3">
@@ -444,23 +444,6 @@ Syllabus will be updated.
                   </td>
                   <td class="c11" colspan="1" rowspan="1">
                      <p class="c9"><span class="c15">Guest lecture on creating benchmarks?</span></p>
-                  </td>
-                  <td class="c8" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-                  <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
-                  </td>
-               </tr>
-               <tr class="c3">
-                  <td class="c19" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c1">20</span></p>
-                  </td>
-                  <td class="c4" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15">2 May 2021</span></p>
-                  </td>
-                  <td class="c11" colspan="1" rowspan="1">
-                     <p class="c9"><span class="c15"></span></p>
                   </td>
                   <td class="c8" colspan="1" rowspan="1">
                      <p class="c9 c10"><span class="c1"></span></p>
