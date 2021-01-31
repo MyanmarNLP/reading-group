@@ -415,7 +415,7 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1"></span></p>
+                     <p class="c9 c10"><span class="c1">Khin Me Me Chit,Thura Aung</span></p>
                   </td>
                </tr>
                <tr class="c3">
@@ -432,7 +432,7 @@ Syllabus will be updated.
                      <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                   <td class="c16" colspan="1" rowspan="1">
-                     <p class="c9 c10"><span class="c1">Khin Me Me Chit,Thura Aung</span></p>
+                     <p class="c9 c10"><span class="c1"></span></p>
                   </td>
                </tr>
                <tr class="c3">
